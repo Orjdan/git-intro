@@ -1,1 +1,1 @@
-Change from main
+Corrected message to resolve conflict.
