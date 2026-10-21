@@ -1,1 +1,2 @@
-Message from main branch
+Message for resolving conflict between main and feature-greeting.
+
